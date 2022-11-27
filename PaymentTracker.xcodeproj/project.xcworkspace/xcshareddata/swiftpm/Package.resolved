@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "usergreeting",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/NarutoOG7/UserGreeting",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8da62b79efe5bda7abe5647fb49848a7caf9c32f"
+      }
+    },
+    {
+      "identity" : "userinputcell",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/NarutoOG7/UserInputCell",
+      "state" : {
+        "branch" : "main",
+        "revision" : "702cbc15eda97f6b3b33ea2a2b4f56197b89c90b"
+      }
+    }
+  ],
+  "version" : 2
+}
